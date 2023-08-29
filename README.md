@@ -24,7 +24,7 @@
 
 ### Link do site
 
-https://davison-silva.github.io/Projeto-QR-code-component/
+https://davison-silva.github.io/Projeto-QR-code-component-frontend-mentor/
 
 ## Processo
 
